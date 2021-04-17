@@ -1,8 +1,7 @@
 # ImersãoDev
 
-Maratona de aulas básicas de JS realizada em mar de 2020 pela Alura.
+Maratona de aulas básicas de JS realizada em mar de 2021 pela Alura.
 
----
 
 ## 💰 Conversor de moedas
 

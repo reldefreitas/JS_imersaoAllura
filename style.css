@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #E63946;
+    color: #333;
+    width: 100%;
+}
+
+
+h1, h2, h3, a {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #0C3474;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+h3 strong {
+    font-weight: 500;
+}
+
+h3 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header {
+    width: 80%;
+    padding: 0 2em;
+    margin: 0 3em;
+}
+
+div {
+    margin-top: 4vh;
+}
+
+.container {
+    width: 80%;
+    padding: 2em;
+    margin: 1em 3em;
+    background-color: white;
+}
+
+hr {
+    border-color: #FFDF3C;
+    width: 50%;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+em {
+    color: #666;
+    margin-left: 2em;
+}
+
+.container a {
+    text-decoration: none;
+    background-color: #E63946;
+    padding: 0.5em 1em;
+    margin-top: 20vh;
+    letter-spacing: 0.05em;
+    border: 0;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    color: #fff;
+    position: relative;
+    left: 80%;
+}
+
+a:hover {
+    background-color: #FFDF3C;
+}
+
