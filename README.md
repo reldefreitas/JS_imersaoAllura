@@ -2,6 +2,8 @@
 
 Maratona de aulas básicas de JS realizada em mar de 2021 pela Alura.
 
+[Visualizar no GitHubPages](https://reldefreitas.github.io/JS_imersaoAllura/index.html)
+
 
 ## 💰 Conversor de moedas
 
